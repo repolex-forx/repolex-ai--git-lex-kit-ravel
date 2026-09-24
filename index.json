@@ -1,0 +1,11 @@
+{
+  "org": "repolex-ai",
+  "repo": "git-lex-kit-ravel",
+  "versions": [
+    {
+      "commit": "f44a6099d290716118ae3cc6caeb03ddafbcc431",
+      "tag": "main",
+      "parsed_at": "2026-09-24T11:53:47.933203+00:00"
+    }
+  ]
+}
